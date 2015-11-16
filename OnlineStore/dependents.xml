@@ -1,0 +1,7 @@
+<suite name="Dependents" >
+	<test name="TestName" >
+		<classes>
+			<class name="automationFramework.Dependent" />
+		</classes>
+	</test>
+</suite>
